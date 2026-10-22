@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="TarkovCrosshair.png" alt="TarkovCrosshair Preview" width="850px">
+  <img src="Images/TarkovCrosshair.png" alt="TarkovCrosshair Preview" width="850px">
 </p>
 
 ---
